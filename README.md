@@ -14,6 +14,7 @@
 ⚡ Fun facts:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :musical_note:  For now I am a student in Nankai University<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :fallen_leaf: My favorite season is spring :smile: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :fallen_leaf: My favorite programming language is Golang and TypeScript :smile: <br>
  
  
  
