@@ -12,7 +12,7 @@
 
 😄 Pronouns: He/His/Him/Cactus <br>
 ⚡ Fun facts:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :musical_note:  For now I am a student in China Nankai University<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :musical_note:  For now I am a student in Nankai University<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :fallen_leaf: My favorite season is spring :smile: <br>
  
  
