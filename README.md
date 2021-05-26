@@ -8,7 +8,7 @@
 🌱 *Currently Learning*: React and TypeScript <br>
 
 📫 How to reach me: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: psychopurp@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: psychopurp@gmail.com
 
 😄 Pronouns: He/His/Him/Cactus <br>
 ⚡ Fun facts:<br>
