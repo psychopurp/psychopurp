@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Psychopurp. I'm a web developer . Welcome to my gh page! <br>
  
  
-🔭 I'm currently working on Baidu.(actually i am going to do
+🔭 I'm currently working in Baidu.
  
 🌱 *Currently Learning*: React and TypeScript <br>
 
