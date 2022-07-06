@@ -39,7 +39,7 @@
 
 ## Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=psychopurp&show_icons=true)
-
+![Contribution trends](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=psychopurp)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=psychopurp)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=psychopurp)
+
